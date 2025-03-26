@@ -1,0 +1,4 @@
+"https://www.atlascopco.com/",
+"https://atlascopcohris.peoplestrong.com/altLogin.jsf",
+"https://mypayroll.paysquare.com/",
+"https://portal.azure.com/#home/"
